@@ -8,7 +8,7 @@ Aillumette is a game based on matches.
 
 # Utilisation
 
-###### To install the node_modules:
+###### To install the node_modules :
 ```shell
 $ npm install 
 ```
