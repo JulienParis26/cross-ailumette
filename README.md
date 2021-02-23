@@ -20,6 +20,6 @@ $ node ./main.js
 
 ###### To start the game with Electron :
 ```shell
-$ node ./main.js
+$ cd ./my-electron-app
 $ \my-electron-app> npm start
 ```
