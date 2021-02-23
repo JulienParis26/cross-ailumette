@@ -113,7 +113,7 @@ module.exports = ailumette = () => {
     }
 
     if(start == 'yes') {
-        console.log(chalk.green('Good array, you win! 😁'))
+        console.log(chalk.green('Good game, you win! 😁'))
         process.exit(0)
     } else {
         console.log(chalk.red('Ouch, you loose...💩'))
